@@ -1,4 +1,4 @@
-//practical 11.
+//practical 12.
 a=int(10)
 b=int(10)
 if (a==b):
@@ -6,7 +6,7 @@ if (a==b):
 else:
     print("not success");
 
-//practical 12.
+//practical 13.
 a=int(input("subject 1 "))
 b=int(input("subject 2"))
 c=int(input("subject 3"))
@@ -27,7 +27,7 @@ elif percentage >= 60 and percentage < 75:
 elif percentage >= 75:
     print("AC local")
 
-//program 13.
+//program 14.
 a=int(input("Enter mark1"))
 b=int(input("Enter mark2"))
 c=int(input("Enter mark3"))
@@ -51,7 +51,7 @@ else:
      print ("how?")
 print(avg)
 
-//practical 14.
+//practical 15.
 age=input("enter age")
 if int(age)>=16 and int(age)<=18:
      print("part")
@@ -60,7 +60,7 @@ elif int(age)>18 and int(age)<65:
 else:
     print("not eligible")
 
-//practical 15.
+//practical 16.
 budget=int(input("enter budget"))
 if budget>=100000:
     print("asus:1 lenovo:2 other:3")
