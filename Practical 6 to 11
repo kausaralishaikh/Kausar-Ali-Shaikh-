@@ -1,21 +1,21 @@
-program 6.
+//program 6.
 greet="hello world"
 print(greet[0:5])
 
-program 7.
+//program 7.
 greet="hello world"
 print(greet[0::2])
 
-program 7.
+program 8.
 greet="hello world"
 print("z", greet[1:6],"M", greet[6:11])
 
-program 8.
+program 9.
 greet="hello world"
 #print("z"+ greet[1:6],"M"+ greet[7:11])
 print(greet[::-1])
 
-program 9.
+program 10.
 a=int(input("subject 1 "))
 b=int(input("subject 2"))
 c=int(input("subject 3"))
@@ -25,6 +25,6 @@ total_marks = a + b + c + d + e
 percentage = (total_marks / 5)
 print("Final percentage:", percentage)
 
-program 10.
+program 11.
 print("""hello,
 how are ya""")
